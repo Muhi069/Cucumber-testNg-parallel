@@ -30,7 +30,7 @@ public class RegisterUserPage {
     public By passError2= By.xpath("//span[@id='Password-error']"); //password required
     public By passError3= By.xpath("//span[@id='ConfirmPassword-error']"); // password doesn't match
     public By confirmPassError= By.xpath("//span[@id='ConfirmPassword-error']");
-    public By Confirmation_msg= By.xpath("//*[text()=\"Your registration completed\"]");
+    public By Confirmation_msg= By.xpath("//div[@class='result']");
 
 
 

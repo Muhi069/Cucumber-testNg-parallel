@@ -1,4 +1,0 @@
-$(document).ready(function() {
-CucumberHTML.timelineItems.pushArray([{"id":"1deeafa5-6b3a-4191-b473-5229dd8f81e9","feature":"Login page feature","scenario":"Login with valid Username and invalid password","start":1684479310847,"group":15,"content":"","tags":"","end":1684479313913,"className":"failed"},{"id":"a988d5fb-ed43-48be-95de-006ed058ee6f","feature":"Registration feature","scenario":"Register with Valid data","start":1684479310849,"group":16,"content":"","tags":"","end":1684479324068,"className":"failed"}]);
-CucumberHTML.timelineGroups.pushArray([{"id":15,"content":"Thread[TestNG-PoolService-0,5,main]"},{"id":16,"content":"Thread[TestNG-PoolService-1,5,main]"}]);
-});
